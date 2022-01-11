@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/liuwuqiang/Documents/Codes/c++prj/raineTop/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++2a -o CMakeFiles/raineTop.dir/main.cpp.o -c /Users/liuwuqiang/Documents/Codes/c++prj/raineTop/main.cpp",
+  "file": "/Users/liuwuqiang/Documents/Codes/c++prj/raineTop/main.cpp"
+}
+]
